@@ -1,5 +1,5 @@
 <?php
-namespace UidOauth;
+namespace DSMGID\UidOauth;
 
 class UidOauth
 {

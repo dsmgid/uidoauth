@@ -9,7 +9,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "DSMGID\\UidOauth": "src/"
+            "DSMGID\\UidOauth\\": "src/"
         }
     },
     "require": {
